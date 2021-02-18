@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 
 This changelog was automatically generated using [Caretaker](https://github.com/DevelopersToolbox/caretaker) by [Wolf Software](https://github.com/WolfSoftware)
 
-### [v0.1.0](https://github.com/AWSToolbox/list-rds-instances/releases/v0.1.0)
+### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.0...HEAD)
 
-> Released on February, 11th 2021
+- Add a new travis job to run github-linguist for information only [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
 
-- The initial commit [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+- The initial commit [`[d926fe3]`](https://github.com/AWSToolbox/list-rds-instances/commit/d926fe31d065509af440a163fe5910e355784118)
 
