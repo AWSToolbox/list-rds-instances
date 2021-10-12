@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
-- Fix pur issues from travis [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+- rebrand [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+
+- Fix pur issues from travis [`[ba33d6c]`](https://github.com/AWSToolbox/list-rds-instances/commit/ba33d6cdc497c94b9cda872b79fe0cd2598dd2fb)
 
 - Update travis slack integration due to new slack organisation [`[5678b00]`](https://github.com/AWSToolbox/list-rds-instances/commit/5678b00eae7e49e7fb1a0a6e2aa8741e14220eba)
 
