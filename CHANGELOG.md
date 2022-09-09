@@ -7,7 +7,68 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
-- Updating workflows [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+- Workflows [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+
+- Bump prettytable from 2.2.1 to 3.4.1 [`[#1]`](https://github.com/AWSToolbox/list-rds-instances/pull/1)
+
+- Bump boto3 from 1.18.59 to 1.24.69 [`[#4]`](https://github.com/AWSToolbox/list-rds-instances/pull/4)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.18.59 to 1.24.69.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.18.59...1.24.69)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump requests from 2.26.0 to 2.28.1 [`[#3]`](https://github.com/AWSToolbox/list-rds-instances/pull/3)
+
+Bumps [requests](https://github.com/psf/requests) from 2.26.0 to 2.28.1.
+- [Release notes](https://github.com/psf/requests/releases)
+- [Changelog](https://github.com/psf/requests/blob/main/HISTORY.md)
+- [Commits](https://github.com/psf/requests/compare/v2.26.0...v2.28.1)
+
+---
+updated-dependencies:
+- dependency-name: requests
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.21.59 to 1.27.69 [`[#2]`](https://github.com/AWSToolbox/list-rds-instances/pull/2)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.21.59 to 1.27.69.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.21.59...1.27.69)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Updating workflows [`[0621fa5]`](https://github.com/AWSToolbox/list-rds-instances/commit/0621fa52ddee7388f1e628b2c7b739d7991b697e)
 
 - rebrand [`[e2f1d08]`](https://github.com/AWSToolbox/list-rds-instances/commit/e2f1d08f1780474db5a7981693cb490f0b0afbe9)
 
