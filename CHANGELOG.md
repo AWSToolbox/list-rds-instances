@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - Workflows [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
 
+- Workflows [`[6f01176]`](https://github.com/AWSToolbox/list-rds-instances/commit/6f011760db4487c71c1fc2f374f93454dae9820a)
+
 - Workflows [`[87b0c83]`](https://github.com/AWSToolbox/list-rds-instances/commit/87b0c83aeded43b05011f32fe95b81e759d2cc51)
 
 - Bump prettytable from 2.2.1 to 3.4.1 [`[#1]`](https://github.com/AWSToolbox/list-rds-instances/pull/1)
