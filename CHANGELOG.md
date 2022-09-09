@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - Workflows [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
 
+- Workflows [`[87b0c83]`](https://github.com/AWSToolbox/list-rds-instances/commit/87b0c83aeded43b05011f32fe95b81e759d2cc51)
+
 - Bump prettytable from 2.2.1 to 3.4.1 [`[#1]`](https://github.com/AWSToolbox/list-rds-instances/pull/1)
 
 - Bump boto3 from 1.18.59 to 1.24.69 [`[#4]`](https://github.com/AWSToolbox/list-rds-instances/pull/4)
