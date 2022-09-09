@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
-- rebrand [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+- Updating workflows [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+
+- rebrand [`[e2f1d08]`](https://github.com/AWSToolbox/list-rds-instances/commit/e2f1d08f1780474db5a7981693cb490f0b0afbe9)
 
 - Fix pur issues from travis [`[ba33d6c]`](https://github.com/AWSToolbox/list-rds-instances/commit/ba33d6cdc497c94b9cda872b79fe0cd2598dd2fb)
 
