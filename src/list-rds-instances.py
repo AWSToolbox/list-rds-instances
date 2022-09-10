@@ -10,10 +10,8 @@ from __future__ import print_function
 
 import argparse
 import boto3
-import requests
 import sys
 
-from botocore.exceptions import ClientError, EndpointConnectionError
 from prettytable import PrettyTable
 
 empty_string = ''
@@ -22,7 +20,7 @@ unknown_version = '0.0.0'
 unknown_int = 0
 
 
-def main(cmdline=None):
+def main(cmdline=None) -> None:
 
     """
     The main function. This takes the command line arguments provided and parse them.
@@ -131,10 +129,4 @@ def display_results(results):
 
 
 if __name__ == "__main__":
-
-    # This runs when the application is run from the command it grabs sys.argv[1:] which is everything after
-    # the program name and passes it to main the return value from main is then used as the argument to
-    # sys.exit, which you can test for in the shell. program exit codes are usually 0 for ok, and non-zero
-    # for something going wrong.
-
-    sys.exit(main(sys.argv[1:]))
+    main(sys.argv[1:])
