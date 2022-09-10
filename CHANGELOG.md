@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - Fix build link [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
 
+- Fix build link [`[3f6e4c6]`](https://github.com/AWSToolbox/list-rds-instances/commit/3f6e4c627368e2a209d1e9b1c21b26a5b704bc56)
+
 - Workflows [`[4673221]`](https://github.com/AWSToolbox/list-rds-instances/commit/4673221d4dce283221f5d7fa2d552b8f341ea9f6)
 
 - Workflows [`[76f2cb5]`](https://github.com/AWSToolbox/list-rds-instances/commit/76f2cb50d194824f60166d28a61b1bae799f1b68)
