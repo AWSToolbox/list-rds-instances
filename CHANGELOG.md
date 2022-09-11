@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
-- Add greetings [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+- Added pylint [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+
+- Add greetings [`[2a800b5]`](https://github.com/AWSToolbox/list-rds-instances/commit/2a800b5d7ffd960ce9bab0c471192bc1d66aaac4)
 
 - Fix codeql errors [`[bdb4d42]`](https://github.com/AWSToolbox/list-rds-instances/commit/bdb4d428b5deaffad0a856dd47006ec2c1d7f5e4)
 

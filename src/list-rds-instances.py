@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# pylint: disable=C0103
 
 """
 Example Usage:
@@ -9,8 +10,9 @@ Example Usage:
 from __future__ import print_function
 
 import argparse
-import boto3
 import sys
+import boto3
+import botocore
 
 from prettytable import PrettyTable
 
@@ -35,7 +37,7 @@ def main(cmdline=None) -> None:
     else:
         client = boto3.client('rds')
 
-    results = query_api(client, args)
+    results = query_api(client)
     display_results(results)
 
 
@@ -51,7 +53,7 @@ def make_parser():
     return parser
 
 
-def query_api(client, args):
+def query_api(client):
     """
     Query the API
     """
@@ -60,8 +62,8 @@ def query_api(client, args):
 
     try:
         response = client.describe_db_instances()
-    except EndpointConnectionError as e:
-        print("ERROR: %s (Probably an invalid region!)" % e)
+    except botocore.exceptions.EndpointConnectionError as e:
+        print(f'ERROR: {e} (Probably an invalid region!)')
     except Exception as e:
         print("Unknown error: " + str(e))
     else:
@@ -69,7 +71,7 @@ def query_api(client, args):
             for parts in response['DBInstances']:
                 if 'AvailabilityZone' in parts:
                     if 'SecondaryAvailabilityZone' in parts:
-                        AZS = '%s & %s' % (parts['AvailabilityZone'], parts['SecondaryAvailabilityZone'])
+                        AZS = f'{parts["AvailabilityZone"]} & {parts["SecondaryAvailabilityZone"]}'
                     else:
                         AZS = parts['AvailabilityZone']
                 else:
@@ -117,7 +119,7 @@ def display_results(results):
                        parts['Status'],
                        parts['AvailabilityZone'],
                        parts['PubliclyAccessible'],
-                       '%s GB' % parts['AllocatedStorage'],
+                       f'{parts["AllocatedStorage"]} GB',
                        parts['StorageEncrypted'],
                        parts['Engine'],
                        parts['EngineVersion'],
