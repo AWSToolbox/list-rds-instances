@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
-- Added pylint [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+- Removed pur (dependabot does this now) and added caretaker.yml [`[head]`](https://github.com/AWSToolbox/list-rds-instances/commit/)
+
+- Added pylint [`[e6023bb]`](https://github.com/AWSToolbox/list-rds-instances/commit/e6023bbdbe7f531edef092630832711afd16b61c)
 
 - Add greetings [`[2a800b5]`](https://github.com/AWSToolbox/list-rds-instances/commit/2a800b5d7ffd960ce9bab0c471192bc1d66aaac4)
 
