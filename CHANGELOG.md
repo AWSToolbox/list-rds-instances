@@ -7,6 +7,10 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
+- chore(deps): bump requests from 2.28.1 to 2.28.2 [`[#152]`](https://github.com/AWSToolbox/list-rds-instances/pull/152)
+
+- chore: caretaker action [`[e8e2523]`](https://github.com/AWSToolbox/list-rds-instances/commit/e8e2523adb4b4ab9eff1e63c1632985dee09d187)
+
 - chore(deps): bump boto3 from 1.26.48 to 1.26.49 [`[#151]`](https://github.com/AWSToolbox/list-rds-instances/pull/151)
 
 Bumps [boto3](https://github.com/boto/boto3) from 1.26.48 to 1.26.49.
