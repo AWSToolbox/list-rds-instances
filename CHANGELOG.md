@@ -7,6 +7,2060 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/AWSToolbox/list-rds-instances/compare/v0.1.1...HEAD)
 
+- chore(deps): bump boto3 from 1.26.48 to 1.26.49 [`[#151]`](https://github.com/AWSToolbox/list-rds-instances/pull/151)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.48 to 1.26.49.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.48...1.26.49)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump actions/stale from 6 to 7 [`[#117]`](https://github.com/AWSToolbox/list-rds-instances/pull/117)
+
+- chore(deps): bump botocore from 1.29.48 to 1.29.49 [`[#150]`](https://github.com/AWSToolbox/list-rds-instances/pull/150)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.48 to 1.29.49.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.48...1.29.49)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump Gamesight/slack-workflow-status from 1.1.0 to 1.2.0 [`[#149]`](https://github.com/AWSToolbox/list-rds-instances/pull/149)
+
+Bumps [Gamesight/slack-workflow-status](https://github.com/Gamesight/slack-workflow-status) from 1.1.0 to 1.2.0.
+- [Release notes](https://github.com/Gamesight/slack-workflow-status/releases)
+- [Commits](https://github.com/Gamesight/slack-workflow-status/compare/v1.1.0...v1.2.0)
+
+---
+updated-dependencies:
+- dependency-name: Gamesight/slack-workflow-status
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.47 to 1.26.48 [`[#148]`](https://github.com/AWSToolbox/list-rds-instances/pull/148)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.47 to 1.26.48.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.47...1.26.48)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.47 to 1.29.48 [`[#147]`](https://github.com/AWSToolbox/list-rds-instances/pull/147)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.47 to 1.29.48.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.47...1.29.48)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.46 to 1.26.47 [`[#146]`](https://github.com/AWSToolbox/list-rds-instances/pull/146)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.46 to 1.26.47.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.46...1.26.47)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.46 to 1.29.47 [`[#145]`](https://github.com/AWSToolbox/list-rds-instances/pull/145)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.46 to 1.29.47.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.46...1.29.47)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.45 to 1.29.46 [`[#144]`](https://github.com/AWSToolbox/list-rds-instances/pull/144)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.45 to 1.29.46.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.45...1.29.46)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.45 to 1.26.46 [`[#143]`](https://github.com/AWSToolbox/list-rds-instances/pull/143)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.45 to 1.26.46.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.45...1.26.46)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.44 to 1.29.45 [`[#142]`](https://github.com/AWSToolbox/list-rds-instances/pull/142)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.44 to 1.29.45.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.44...1.29.45)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.44 to 1.26.45 [`[#141]`](https://github.com/AWSToolbox/list-rds-instances/pull/141)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.44 to 1.26.45.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.44...1.26.45)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump prettytable from 3.5.0 to 3.6.0 [`[#140]`](https://github.com/AWSToolbox/list-rds-instances/pull/140)
+
+Bumps [prettytable](https://github.com/jazzband/prettytable) from 3.5.0 to 3.6.0.
+- [Release notes](https://github.com/jazzband/prettytable/releases)
+- [Changelog](https://github.com/jazzband/prettytable/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/jazzband/prettytable/compare/3.5.0...3.6.0)
+
+---
+updated-dependencies:
+- dependency-name: prettytable
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.43 to 1.26.44 [`[#139]`](https://github.com/AWSToolbox/list-rds-instances/pull/139)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.43 to 1.26.44.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.43...1.26.44)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.43 to 1.29.44 [`[#138]`](https://github.com/AWSToolbox/list-rds-instances/pull/138)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.43 to 1.29.44.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.43...1.29.44)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.42 to 1.26.43 [`[#137]`](https://github.com/AWSToolbox/list-rds-instances/pull/137)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.42 to 1.26.43.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.42...1.26.43)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.42 to 1.29.43 [`[#136]`](https://github.com/AWSToolbox/list-rds-instances/pull/136)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.42 to 1.29.43.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.42...1.29.43)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.41 to 1.26.42 [`[#135]`](https://github.com/AWSToolbox/list-rds-instances/pull/135)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.41 to 1.26.42.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.41...1.26.42)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.41 to 1.29.42 [`[#134]`](https://github.com/AWSToolbox/list-rds-instances/pull/134)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.41 to 1.29.42.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.41...1.29.42)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.40 to 1.26.41 [`[#133]`](https://github.com/AWSToolbox/list-rds-instances/pull/133)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.40 to 1.26.41.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.40...1.26.41)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.40 to 1.29.41 [`[#132]`](https://github.com/AWSToolbox/list-rds-instances/pull/132)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.40 to 1.29.41.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.40...1.29.41)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.39 to 1.26.40 [`[#131]`](https://github.com/AWSToolbox/list-rds-instances/pull/131)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.39 to 1.26.40.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.39...1.26.40)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.39 to 1.29.40 [`[#130]`](https://github.com/AWSToolbox/list-rds-instances/pull/130)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.39 to 1.29.40.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.39...1.29.40)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.38 to 1.26.39 [`[#129]`](https://github.com/AWSToolbox/list-rds-instances/pull/129)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.38 to 1.26.39.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.38...1.26.39)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.38 to 1.29.39 [`[#128]`](https://github.com/AWSToolbox/list-rds-instances/pull/128)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.38 to 1.29.39.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.38...1.29.39)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.37 to 1.29.38 [`[#127]`](https://github.com/AWSToolbox/list-rds-instances/pull/127)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.37 to 1.29.38.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.37...1.29.38)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.37 to 1.26.38 [`[#126]`](https://github.com/AWSToolbox/list-rds-instances/pull/126)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.37 to 1.26.38.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.37...1.26.38)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.36 to 1.26.37 [`[#125]`](https://github.com/AWSToolbox/list-rds-instances/pull/125)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.36 to 1.26.37.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.36...1.26.37)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.36 to 1.29.37 [`[#124]`](https://github.com/AWSToolbox/list-rds-instances/pull/124)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.36 to 1.29.37.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.36...1.29.37)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.35 to 1.26.36 [`[#123]`](https://github.com/AWSToolbox/list-rds-instances/pull/123)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.35 to 1.26.36.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.35...1.26.36)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.35 to 1.29.36 [`[#122]`](https://github.com/AWSToolbox/list-rds-instances/pull/122)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.35 to 1.29.36.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.35...1.29.36)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.34 to 1.26.35 [`[#121]`](https://github.com/AWSToolbox/list-rds-instances/pull/121)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.34 to 1.26.35.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.34...1.26.35)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.34 to 1.29.35 [`[#120]`](https://github.com/AWSToolbox/list-rds-instances/pull/120)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.34 to 1.29.35.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.34...1.29.35)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.33 to 1.26.34 [`[#119]`](https://github.com/AWSToolbox/list-rds-instances/pull/119)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.33 to 1.26.34.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.33...1.26.34)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.33 to 1.29.34 [`[#118]`](https://github.com/AWSToolbox/list-rds-instances/pull/118)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.33 to 1.29.34.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.33...1.29.34)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.32 to 1.26.33 [`[#116]`](https://github.com/AWSToolbox/list-rds-instances/pull/116)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.32 to 1.26.33.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.32...1.26.33)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.32 to 1.29.33 [`[#115]`](https://github.com/AWSToolbox/list-rds-instances/pull/115)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.32 to 1.29.33.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.32...1.29.33)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.31 to 1.26.32 [`[#114]`](https://github.com/AWSToolbox/list-rds-instances/pull/114)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.31 to 1.26.32.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.31...1.26.32)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.31 to 1.29.32 [`[#113]`](https://github.com/AWSToolbox/list-rds-instances/pull/113)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.31 to 1.29.32.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.31...1.29.32)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.30 to 1.29.31 [`[#112]`](https://github.com/AWSToolbox/list-rds-instances/pull/112)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.30 to 1.29.31.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.30...1.29.31)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.30 to 1.26.31 [`[#111]`](https://github.com/AWSToolbox/list-rds-instances/pull/111)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.30 to 1.26.31.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.30...1.26.31)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.29 to 1.29.30 [`[#110]`](https://github.com/AWSToolbox/list-rds-instances/pull/110)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.29 to 1.29.30.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.29...1.29.30)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.29 to 1.26.30 [`[#109]`](https://github.com/AWSToolbox/list-rds-instances/pull/109)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.29 to 1.26.30.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.29...1.26.30)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.28 to 1.29.29 [`[#108]`](https://github.com/AWSToolbox/list-rds-instances/pull/108)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.28 to 1.29.29.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.28...1.29.29)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.28 to 1.26.29 [`[#107]`](https://github.com/AWSToolbox/list-rds-instances/pull/107)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.28 to 1.26.29.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.28...1.26.29)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.27 to 1.29.28 [`[#106]`](https://github.com/AWSToolbox/list-rds-instances/pull/106)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.27 to 1.29.28.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.27...1.29.28)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.27 to 1.26.28 [`[#105]`](https://github.com/AWSToolbox/list-rds-instances/pull/105)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.27 to 1.26.28.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.27...1.26.28)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.26 to 1.29.27 [`[#104]`](https://github.com/AWSToolbox/list-rds-instances/pull/104)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.26 to 1.29.27.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.26...1.29.27)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.26 to 1.26.27 [`[#103]`](https://github.com/AWSToolbox/list-rds-instances/pull/103)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.26 to 1.26.27.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.26...1.26.27)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.25 to 1.29.26 [`[#102]`](https://github.com/AWSToolbox/list-rds-instances/pull/102)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.25 to 1.29.26.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.25...1.29.26)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.25 to 1.26.26 [`[#101]`](https://github.com/AWSToolbox/list-rds-instances/pull/101)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.25 to 1.26.26.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.25...1.26.26)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump botocore from 1.29.24 to 1.29.25 [`[#100]`](https://github.com/AWSToolbox/list-rds-instances/pull/100)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.24 to 1.29.25.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.24...1.29.25)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore(deps): bump boto3 from 1.26.24 to 1.26.25 [`[#99]`](https://github.com/AWSToolbox/list-rds-instances/pull/99)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.24 to 1.26.25.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.24...1.26.25)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.23 to 1.26.24 [`[#98]`](https://github.com/AWSToolbox/list-rds-instances/pull/98)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.23 to 1.26.24.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.23...1.26.24)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.23 to 1.29.24 [`[#97]`](https://github.com/AWSToolbox/list-rds-instances/pull/97)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.23 to 1.29.24.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.23...1.29.24)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.22 to 1.29.23 [`[#96]`](https://github.com/AWSToolbox/list-rds-instances/pull/96)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.22 to 1.29.23.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.22...1.29.23)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.22 to 1.26.23 [`[#95]`](https://github.com/AWSToolbox/list-rds-instances/pull/95)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.22 to 1.26.23.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.22...1.26.23)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.21 to 1.26.22 [`[#94]`](https://github.com/AWSToolbox/list-rds-instances/pull/94)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.21 to 1.26.22.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.21...1.26.22)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.21 to 1.29.22 [`[#93]`](https://github.com/AWSToolbox/list-rds-instances/pull/93)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.21 to 1.29.22.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.21...1.29.22)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.20 to 1.26.21 [`[#92]`](https://github.com/AWSToolbox/list-rds-instances/pull/92)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.20 to 1.26.21.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.20...1.26.21)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.20 to 1.29.21 [`[#91]`](https://github.com/AWSToolbox/list-rds-instances/pull/91)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.20 to 1.29.21.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.20...1.29.21)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.19 to 1.26.20 [`[#90]`](https://github.com/AWSToolbox/list-rds-instances/pull/90)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.19 to 1.26.20.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.19...1.26.20)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.19 to 1.29.20 [`[#89]`](https://github.com/AWSToolbox/list-rds-instances/pull/89)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.19 to 1.29.20.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.19...1.29.20)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.18 to 1.29.19 [`[#88]`](https://github.com/AWSToolbox/list-rds-instances/pull/88)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.18 to 1.29.19.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.18...1.29.19)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.18 to 1.26.19 [`[#87]`](https://github.com/AWSToolbox/list-rds-instances/pull/87)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.18 to 1.26.19.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.18...1.26.19)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.16 to 1.29.18 [`[#86]`](https://github.com/AWSToolbox/list-rds-instances/pull/86)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.16 to 1.29.18.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.16...1.29.18)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.16 to 1.26.18 [`[#85]`](https://github.com/AWSToolbox/list-rds-instances/pull/85)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.16 to 1.26.18.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.16...1.26.18)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.15 to 1.26.16 [`[#84]`](https://github.com/AWSToolbox/list-rds-instances/pull/84)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.15 to 1.26.16.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.15...1.26.16)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.15 to 1.29.16 [`[#83]`](https://github.com/AWSToolbox/list-rds-instances/pull/83)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.15 to 1.29.16.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.15...1.29.16)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.11 to 1.29.15 [`[#82]`](https://github.com/AWSToolbox/list-rds-instances/pull/82)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.11 to 1.29.15.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.11...1.29.15)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.11 to 1.26.15 [`[#81]`](https://github.com/AWSToolbox/list-rds-instances/pull/81)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.11 to 1.26.15.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.11...1.26.15)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.10 to 1.26.11 [`[#80]`](https://github.com/AWSToolbox/list-rds-instances/pull/80)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.10 to 1.26.11.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.10...1.26.11)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.10 to 1.29.11 [`[#79]`](https://github.com/AWSToolbox/list-rds-instances/pull/79)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.10 to 1.29.11.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.10...1.29.11)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.9 to 1.26.10 [`[#78]`](https://github.com/AWSToolbox/list-rds-instances/pull/78)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.9 to 1.26.10.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.9...1.26.10)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.9 to 1.29.10 [`[#77]`](https://github.com/AWSToolbox/list-rds-instances/pull/77)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.9 to 1.29.10.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.9...1.29.10)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.8 to 1.29.9 [`[#76]`](https://github.com/AWSToolbox/list-rds-instances/pull/76)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.8 to 1.29.9.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.8...1.29.9)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.8 to 1.26.9 [`[#75]`](https://github.com/AWSToolbox/list-rds-instances/pull/75)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.8 to 1.26.9.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.8...1.26.9)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.7 to 1.29.8 [`[#74]`](https://github.com/AWSToolbox/list-rds-instances/pull/74)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.7 to 1.29.8.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.7...1.29.8)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.7 to 1.26.8 [`[#73]`](https://github.com/AWSToolbox/list-rds-instances/pull/73)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.7 to 1.26.8.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.7...1.26.8)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.6 to 1.26.7 [`[#72]`](https://github.com/AWSToolbox/list-rds-instances/pull/72)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.6 to 1.26.7.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.6...1.26.7)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.6 to 1.29.7 [`[#71]`](https://github.com/AWSToolbox/list-rds-instances/pull/71)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.6 to 1.29.7.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.6...1.29.7)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.5 to 1.29.6 [`[#70]`](https://github.com/AWSToolbox/list-rds-instances/pull/70)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.5 to 1.29.6.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.5...1.29.6)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.5 to 1.26.6 [`[#69]`](https://github.com/AWSToolbox/list-rds-instances/pull/69)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.5 to 1.26.6.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.5...1.26.6)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.4 to 1.29.5 [`[#68]`](https://github.com/AWSToolbox/list-rds-instances/pull/68)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.4 to 1.29.5.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.4...1.29.5)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.4 to 1.26.5 [`[#67]`](https://github.com/AWSToolbox/list-rds-instances/pull/67)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.4 to 1.26.5.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.4...1.26.5)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.2 to 1.26.4 [`[#66]`](https://github.com/AWSToolbox/list-rds-instances/pull/66)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.2 to 1.26.4.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.2...1.26.4)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.2 to 1.29.4 [`[#65]`](https://github.com/AWSToolbox/list-rds-instances/pull/65)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.2 to 1.29.4.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.2...1.29.4)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.1 to 1.29.2 [`[#64]`](https://github.com/AWSToolbox/list-rds-instances/pull/64)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.1 to 1.29.2.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.1...1.29.2)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.1 to 1.26.2 [`[#63]`](https://github.com/AWSToolbox/list-rds-instances/pull/63)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.1 to 1.26.2.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.1...1.26.2)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.26.0 to 1.26.1 [`[#61]`](https://github.com/AWSToolbox/list-rds-instances/pull/61)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.26.0 to 1.26.1.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.26.0...1.26.1)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump dependabot/fetch-metadata from 1.3.4 to 1.3.5 [`[#60]`](https://github.com/AWSToolbox/list-rds-instances/pull/60)
+
+Bumps [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) from 1.3.4 to 1.3.5.
+- [Release notes](https://github.com/dependabot/fetch-metadata/releases)
+- [Commits](https://github.com/dependabot/fetch-metadata/compare/v1.3.4...v1.3.5)
+
+---
+updated-dependencies:
+- dependency-name: dependabot/fetch-metadata
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.29.0 to 1.29.1 [`[#62]`](https://github.com/AWSToolbox/list-rds-instances/pull/62)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.29.0 to 1.29.1.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.29.0...1.29.1)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.25.4 to 1.26.0 [`[#59]`](https://github.com/AWSToolbox/list-rds-instances/pull/59)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.25.4 to 1.26.0.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.25.4...1.26.0)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.28.4 to 1.29.0 [`[#58]`](https://github.com/AWSToolbox/list-rds-instances/pull/58)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.28.4 to 1.29.0.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.28.4...1.29.0)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump prettytable from 3.4.1 to 3.5.0 [`[#57]`](https://github.com/AWSToolbox/list-rds-instances/pull/57)
+
+Bumps [prettytable](https://github.com/jazzband/prettytable) from 3.4.1 to 3.5.0.
+- [Release notes](https://github.com/jazzband/prettytable/releases)
+- [Changelog](https://github.com/jazzband/prettytable/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/jazzband/prettytable/compare/3.4.1...3.5.0)
+
+---
+updated-dependencies:
+- dependency-name: prettytable
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.25.3 to 1.25.4 [`[#56]`](https://github.com/AWSToolbox/list-rds-instances/pull/56)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.25.3 to 1.25.4.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.25.3...1.25.4)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.28.3 to 1.28.4 [`[#55]`](https://github.com/AWSToolbox/list-rds-instances/pull/55)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.28.3 to 1.28.4.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.28.3...1.28.4)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.25.1 to 1.25.3 [`[#54]`](https://github.com/AWSToolbox/list-rds-instances/pull/54)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.25.1 to 1.25.3.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.25.1...1.25.3)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.28.1 to 1.28.3 [`[#53]`](https://github.com/AWSToolbox/list-rds-instances/pull/53)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.28.1 to 1.28.3.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.28.1...1.28.3)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.25.0 to 1.25.1 [`[#52]`](https://github.com/AWSToolbox/list-rds-instances/pull/52)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.25.0 to 1.25.1.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.25.0...1.25.1)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.28.0 to 1.28.1 [`[#51]`](https://github.com/AWSToolbox/list-rds-instances/pull/51)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.28.0 to 1.28.1.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.28.0...1.28.1)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.27.96 to 1.28.0 [`[#50]`](https://github.com/AWSToolbox/list-rds-instances/pull/50)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.27.96 to 1.28.0.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.27.96...1.28.0)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.24.96 to 1.25.0 [`[#49]`](https://github.com/AWSToolbox/list-rds-instances/pull/49)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.24.96 to 1.25.0.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.24.96...1.25.0)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.27.95 to 1.27.96 [`[#48]`](https://github.com/AWSToolbox/list-rds-instances/pull/48)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.27.95 to 1.27.96.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.27.95...1.27.96)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.24.95 to 1.24.96 [`[#47]`](https://github.com/AWSToolbox/list-rds-instances/pull/47)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.24.95 to 1.24.96.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.24.95...1.24.96)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.27.94 to 1.27.95 [`[#46]`](https://github.com/AWSToolbox/list-rds-instances/pull/46)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.27.94 to 1.27.95.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.27.94...1.27.95)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.24.94 to 1.24.95 [`[#45]`](https://github.com/AWSToolbox/list-rds-instances/pull/45)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.24.94 to 1.24.95.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.24.94...1.24.95)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump boto3 from 1.24.93 to 1.24.94 [`[#44]`](https://github.com/AWSToolbox/list-rds-instances/pull/44)
+
+Bumps [boto3](https://github.com/boto/boto3) from 1.24.93 to 1.24.94.
+- [Release notes](https://github.com/boto/boto3/releases)
+- [Changelog](https://github.com/boto/boto3/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/boto3/compare/1.24.93...1.24.94)
+
+---
+updated-dependencies:
+- dependency-name: boto3
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- Bump botocore from 1.27.93 to 1.27.94 [`[#43]`](https://github.com/AWSToolbox/list-rds-instances/pull/43)
+
+Bumps [botocore](https://github.com/boto/botocore) from 1.27.93 to 1.27.94.
+- [Release notes](https://github.com/boto/botocore/releases)
+- [Changelog](https://github.com/boto/botocore/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/boto/botocore/compare/1.27.93...1.27.94)
+
+---
+updated-dependencies:
+- dependency-name: botocore
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+- chore: caretaker action [`[da5f067]`](https://github.com/AWSToolbox/list-rds-instances/commit/da5f067a108a1f6c9647a94ef568f3447cbe23c7)
+
 - Bump actions/stale from 5 to 6 [`[#13]`](https://github.com/AWSToolbox/list-rds-instances/pull/13)
 
 - Bump botocore from 1.27.92 to 1.27.93 [`[#42]`](https://github.com/AWSToolbox/list-rds-instances/pull/42)
