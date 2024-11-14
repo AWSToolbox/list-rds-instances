@@ -1,3 +1,3 @@
 requests==2.32.3
-boto3==1.35.59
+boto3==1.35.60
 prettytable==3.12.0
